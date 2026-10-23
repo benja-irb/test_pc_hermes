@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/hermes-stick.dir/src/stick_main.cpp.o" "CMakeFiles/hermes-stick.dir/src/sidestick_common.cpp.o" "CMakeFiles/hermes-stick.dir/src/udp_client.cpp.o" "CMakeFiles/hermes-stick.dir/src/sidestick_macos.cpp.o" -o hermes-stick  -framework IOKit -framework CoreFoundation

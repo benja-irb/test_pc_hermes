@@ -1,0 +1,5 @@
+/Users/broj/Desktop/test_codes_hermes/UDP/C flighstick/pc/build/CMakeFiles/hermes-pc.dir
+/Users/broj/Desktop/test_codes_hermes/UDP/C flighstick/pc/build/CMakeFiles/hermes-monitor.dir
+/Users/broj/Desktop/test_codes_hermes/UDP/C flighstick/pc/build/CMakeFiles/hermes-stick.dir
+/Users/broj/Desktop/test_codes_hermes/UDP/C flighstick/pc/build/CMakeFiles/edit_cache.dir
+/Users/broj/Desktop/test_codes_hermes/UDP/C flighstick/pc/build/CMakeFiles/rebuild_cache.dir
